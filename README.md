@@ -1,7 +1,7 @@
 # AITherapy
 
-###AITherapy is a chat bot empowered by LLM and aims to support people with therapeutical talk, any where, any time.
+### AITherapy is a chatbot empowered by LLM and aims to support people with therapeutic talk, anywhere, any time.
 
-16133 counselling dialogs are collected and cleaned for fine-tuning open source LLM (Large Language Models).
-Google Flan-T5 was chosen to be the base model.
-Lora was employed for parameter efficient fune tunning.
+1. 16133 counseling dialogs are collected and cleaned for fine-tuning open-source LLM (Large Language Models).
+2. Google Flan-T5 was chosen to be the base model.
+3. Lora was employed for parameter-efficient fine-tuning.
